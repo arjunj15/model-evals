@@ -1,0 +1,7 @@
+.env
+.DS_Store
+radio_output.wav
+__pycache__/
+*.wav
+*.mp3
+*.json

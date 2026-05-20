@@ -1,16 +1,16 @@
 id,text,voice,language
-1,Hello! Welcome to the automated model evaluation pipeline. We are testing Supertonic 3.,M1,English
-2,This is a test of expression tags. <breath> I am talking, and then <laugh> I laugh.,F1,English
-3,Can you hear the difference when I ask a question? Or when I exclamation! Wow!,M2,English
-4,El sol brilla hoy en el cielo azul de Madrid.,F2,Spanish
-5,¿Cómo estás hoy? <breath> Espero que tengas un excelente día.,M1,Spanish
-6,Bonjour! C'est un réel plaisir de tester ce modèle de synthèse vocale à Paris.,F1,French
-7,Le vent souffle fort ce soir. <sigh> C'est si calme pourtant.,M2,French
-8,안녕하세요! 인공지능 모델 평가 테스트에 오신 것을 환영합니다.,F2,Korean
-9,오늘 날씨가 참 좋네요. <laugh> 같이 산책 갈래요?,M1,Korean
-10,こんにちは！今日の天気はどうですか？楽しくお話ししましょう。,F1,Japanese
-11,富士山がきれいに見えます。 <breath> とても静かな一日ですね。,M2,Japanese
-12,Guten Tag! Das ist ein automatischer Test für die deutsche Sprachausgabe.,F2,German
-13,Wie geht es Ihnen? <sigh> Ich hoffe, alles läuft nach Plan.,M1,German
-14,नमस्ते! यह सुपरटॉनिक तीन मॉडल की आवाज़ का परीक्षण है।,F1,Hindi
-15,Привет! Это автоматический тест синтеза речи на русском языке.,M2,Russian
+1,"Hello! Welcome to the automated model evaluation pipeline. We are testing Supertonic 3.",M1,English
+2,"This is a test of expression tags. <breath> I am talking, and then <laugh> I laugh.",F1,English
+3,"Can you hear the difference when I ask a question? Or when I exclamation! Wow!",M2,English
+4,"El sol brilla hoy en el cielo azul de Madrid.",F2,Spanish
+5,"¿Cómo estás hoy? <breath> Espero que tengas un excelente día.",M1,Spanish
+6,"Bonjour! C'est un réel plaisir de tester ce modèle de synthèse vocale à Paris.",F1,French
+7,"Le vent souffle fort ce soir. <sigh> C'est si calme pourtant.",M2,French
+8,"안녕하세요! 인공지능 모델 평가 테스트에 오신 것을 환영합니다.",F2,Korean
+9,"오늘 날씨가 참 좋네요. <laugh> 같이 산책 갈래요?",M1,Korean
+10,"こんにちは！今日の天気はどうですか？楽しくお話ししましょう。",F1,Japanese
+11,"富士山がきれいに見えます。 <breath> とても静かな一日ですね。",M2,Japanese
+12,"Guten Tag! Das ist ein automatischer Test für die deutsche Sprachausgabe.",F2,German
+13,"Wie geht es Ihnen? <sigh> Ich hoffe, alles läuft nach Plan.",M1,German
+14,"नमस्ते! यह सुपरटॉनिक तीन मॉडल की आवाज़ का परीक्षण है।",F1,Hindi
+15,"Привет! Это автоматический тест синтеза речи на русском языке.",M2,Russian
