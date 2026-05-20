@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+.DS_Store
+
+# Outputs and evaluation results
+eval_outputs/
+eval_results.csv
+*.wav
+*.mp3
+*.json
+!test_cases.csv

@@ -1,0 +1,5 @@
+id,text,voice,language
+1,Hello! Welcome to the automated model evaluation test.,M1,English
+2,El sol brilla hoy en el cielo azul.,F1,Spanish
+3,안녕하세요! 모델 평가 테스트에 오신 것을 환영합니다.,M2,Korean
+4,Bonjour! C'est un plaisir de tester ce modèle de synthèse vocale.,F2,French
